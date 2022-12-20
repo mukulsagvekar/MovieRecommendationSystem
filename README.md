@@ -3,6 +3,7 @@
 Movie Recommendation System based on Collaborative Filtering recommends movies based on the reviews giving by different users. Used KNN algorithm and cosine similarity.
 
 Click to check live demo: https://movie-recommendation-system-01.herokuapp.com/
+****NOT WORKING AS HEROKU STOPPED THEIR FREE SERVICES
 
 ## Colaborative Filtering:
 
